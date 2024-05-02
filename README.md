@@ -1,2 +1,2 @@
 # Props-Button
-https://app.netlify.com/sites/coruscating-kleicha-68ed22/deploys/663387db744b8d00927a6d06
+https://663387db744b8d00927a6d06--coruscating-kleicha-68ed22.netlify.app/
